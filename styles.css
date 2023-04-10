@@ -160,7 +160,11 @@ h1 {
 
 @media screen and (max-width: 524px) {
     .container{
-        width: 70%;
+        width: 80%;
+    }
+
+    .add {
+        margin-right: 10px;
     }
 
 }
